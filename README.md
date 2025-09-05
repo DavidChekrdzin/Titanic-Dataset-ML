@@ -29,12 +29,19 @@ It demonstrates **data preprocessing**, **feature engineering**, **handling miss
 ## ⚙️ Installation
 1. Clone this repository
 2. Install dependencies:
+   
                           Python 3.8+
+   
                           pandas
+   
                           numpy
+   
                           scikit-learn
+   
                           matplotlib
+   
                           seaborn
+   
 
 
-And a heatmap will be displayed showing prediction performance.
+A heatmap will be displayed showing prediction performance.
