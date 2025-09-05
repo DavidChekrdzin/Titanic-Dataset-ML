@@ -21,7 +21,9 @@ It demonstrates **data preprocessing**, **feature engineering**, **handling miss
 
 ## 📂 Project Structure
 ├── Titanic-Dataset.csv # Dataset file
+
 ├── titanic.py # Main Python script
+
 ├── README.md # Project documentation
 
 ## ⚙️ Installation
